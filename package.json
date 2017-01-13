@@ -1,0 +1,19 @@
+{
+  "name": "wykittens",
+  "version": "1.0.0",
+  "description": "A tiny module that does one thing well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherman/wykittens.git"
+  },
+  "author": "Dave Herman <dherman@mozilla.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherman/wykittens/issues"
+  },
+  "homepage": "https://github.com/dherman/wykittens#readme"
+}
