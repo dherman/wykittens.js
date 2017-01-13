@@ -1,6 +1,6 @@
 {
   "name": "wykittens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny module that does one thing well.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dherman/wykittens.git"
+    "url": "git+https://github.com/dherman/wykittens.js.git"
   },
   "author": "Dave Herman <dherman@mozilla.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dherman/wykittens/issues"
+    "url": "https://github.com/dherman/wykittens.js/issues"
   },
-  "homepage": "https://github.com/dherman/wykittens#readme"
+  "homepage": "https://github.com/dherman/wykittens.js#readme"
 }
